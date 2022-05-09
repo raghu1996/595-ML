@@ -1,6 +1,11 @@
 Repo containing the code used for the paper:
 # Reimplementation of Noise2Noise and extension to dynamic scenes
 
+## Noise2Noise
+Made changes to 
+1) validate across different noise sigma and plot PSNR
+2) Increase model capacity
+
 ## Validate.ipynb 
 Testing the Noise2Noise model on BSD300 and kodak dataset on a range of noise sigma
 
