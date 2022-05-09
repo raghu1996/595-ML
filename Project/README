@@ -1,5 +1,5 @@
 Repo containing the code used for the paper:
-Reimplementation of Noise2Noise and extension to dynamic scenes
+# Reimplementation of Noise2Noise and extension to dynamic scenes
 
 Validate.ipynb - Testing the Noise2Noise model on BSD300 and kodak dataset on a range of noise sigma
 Training_BSD300.ipynb - Training the DnCNN with BSD300 dataset
